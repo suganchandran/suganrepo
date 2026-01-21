@@ -2,7 +2,7 @@ public class FirstProgram(
 
 public static void main (String [] args){
 
- String a = "sugan the king;
+ char a = 'x';
 
  System.out.prinln(a)
 
